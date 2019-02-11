@@ -4,4 +4,4 @@ It involves spike-triggered average, spike-triggered covariance and linear-nonli
 
 The code is designed to run in MATLAB R2018a. Cannot run in a version earlier than R2014b because of the `histcounts` function.
 ## How to use
-Download all the files, make sure they are in the MATLAB path, and run `hw3.m`.
+Download and unzip all the files, make sure they are in the MATLAB path, and run `hw3.m`.
